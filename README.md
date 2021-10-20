@@ -4,4 +4,4 @@
 
 1. sastellēts git
 2. uzlikts git gui GitKraken
-3. esmu te
+3. paskatījos komandas terminālim
